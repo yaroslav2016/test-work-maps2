@@ -1,0 +1,33 @@
+
+html{
+  height:90%;
+}
+body{
+  height:600px;
+  margin-left:10px;
+  font-family: Helvetica,Arial;
+  text-align: center;
+  background: url(http://vivtour.com.ua/wp-content/gallery/thailand/26773.jpg) #4C67CA;
+}
+body p h3{
+  color:#4f4f4f;
+  
+}
+#topblock{
+  padding-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border:2px solid white;
+ text-align: center;
+ height: 214px;
+ background: #1598a8;
+}
+#tools input{
+border-radius: 10px;
+width: 200px;
+margin-bottom: 5px;
+margin-top: 5px;
+background: #c4c4c4;
+border: 1px solid #;
+}
